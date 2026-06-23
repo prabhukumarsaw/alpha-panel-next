@@ -6,9 +6,8 @@ export function CoreBenefits() {
       <div className="text-center mx-auto space-y-1.5">
         <h2 className="text-4xl font-semibold">Core Benefits</h2>
         <p className="max-w-prose text-sm text-muted-foreground">
-          Panel delivers real-world benefits from day one—fast setup,
-          flexible theming, and production-ready features that scale with your
-          team.
+          Panel delivers real-world benefits from day one—fast setup, flexible
+          theming, and production-ready features that scale with your team.
         </p>
       </div>
       <CoreBenefitsList />
